@@ -10,7 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-
+<ul>
+  <li><img src="/wireframe1.pdf">
+  <li><img src="/wireframe2.pdf">
+</ul>
 
 ### Project Tracker
 
