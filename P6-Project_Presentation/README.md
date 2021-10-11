@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Capstone Presentation-3.pdf](https://github.com/Not-Ewe/liftoff-assignments/files/7324129/Capstone.Presentation-3.pdf)
